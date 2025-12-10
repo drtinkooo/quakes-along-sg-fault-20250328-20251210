@@ -173,8 +173,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Tin Ko Oo**
-- Researcher, Mahidol University, Thailand
-- Focus: Geoscience, Southeast Asian Tectonics, Remote Sensing
+- Mahidol University, Thailand
+- Email: tin.koo@mahidol.ac.th
 
 For questions or collaboration opportunities, please open an issue in this repository.
 
