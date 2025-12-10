@@ -88,14 +88,14 @@ Simply visit the [live demo]([https://drtinkooo.github.io/quakes-along-sg-fault-
 ### Embedding
 You can embed this map in your website using an iframe:
 ```html
-<iframe src="https://drtinkooo.github.io/sagaing-fault-seismicity/" 
+<iframe src="https://drtinkooo.github.io/quakes-along-sg-fault-20250328-20251210/" 
         width="100%" height="600" frameborder="0"></iframe>
 ```
 
 ## 📁 Repository Structure
 
 ```
-sagaing-fault-seismicity/
+quakes-along-sg-fault-20250328-20251210/
 ├── index.html          # Main interactive map (standalone, embedded data)
 ├── README.md           # This documentation
 ├── LICENSE             # MIT License
@@ -158,7 +158,7 @@ If you use this visualization in your research or publication, please cite:
 
 ```
 Tin Ko Oo (2025). Sagaing Fault Seismicity: Interactive Map of the 2025 Mandalay 
-Earthquake Sequence. GitHub repository: https://github.com/drtinkooo/sagaing-fault-seismicity
+Earthquake Sequence. GitHub repository: https://github.com/drtinkooo/quakes-along-sg-fault-20250328-20251210
 ```
 
 ## 📄 License
