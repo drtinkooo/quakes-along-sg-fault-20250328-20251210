@@ -73,12 +73,14 @@ This project provides an interactive visualization of seismic activity along Mya
 ## 🚀 Usage
 
 ### Online Access
-Simply visit the [live demo](https://drtinkooo.github.io/sagaing-fault-seismicity/) to view the interactive map.
+Simply visit the [live demo]([https://drtinkooo.github.io/quakes-along-sg-fault-20250328-20251210
+
+/) to view the interactive map.
 
 ### Local Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/drtinkooo/sagaing-fault-seismicity.git
+   git clone https://github.com/drtinkooo/quakes-along-sg-fault-20250328-20251210.git
    ```
 2. Open `index.html` in any modern web browser
 3. No server or installation required - it's a standalone HTML file
